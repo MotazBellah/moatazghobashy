@@ -15,6 +15,9 @@ a {
     margin: 0 auto;
     padding: 0 5%;
 }
+p {
+    line-height: 23px;
+}
 
 .container {
 
@@ -255,7 +258,7 @@ PAGE: COTACT
 .skills{
 
     /* margin: 0 5% 80px 0; */
-    width: 70%;
+    width: 100%;
 }
 .skills ul{
     float: left;

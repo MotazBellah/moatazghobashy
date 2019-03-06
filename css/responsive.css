@@ -29,6 +29,7 @@
 
         /* margin: 0 5% 80px 0; */
         width: 70%;
+        float: right;
     }
     .skills ul{
         float: left;
