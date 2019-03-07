@@ -16,6 +16,11 @@
         width: 48%;
         margin: 1%;
     }
+    
+    .project1 img:hover {
+        position: relative;
+        top: -15px;
+    }
 
     /***********************
     PAGE: ABOUT
