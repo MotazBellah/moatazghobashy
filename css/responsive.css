@@ -43,6 +43,11 @@
 
     }
 
+    .achievement{
+        width: 100%;
+        float: none;
+    }
+
     .t {
         float: right;
         width: 5%;
@@ -92,6 +97,6 @@
     .box{
         /* width: 31.33%; */
         width: 46%;
-    
+
     }
 }
